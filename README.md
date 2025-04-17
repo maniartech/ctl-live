@@ -2,7 +2,7 @@
 
 **Chemo Test Laboratory Website**
 
-This repository contains the generated static content for the Chemo Test Laboratory website.
+This repository contains the source code and content for the Chemo Test Laboratory website.
 
 - **Deployment:** Static files are automatically pushed to the server to publish the website at [https://chemotestlaboratory.com](https://chemotestlaboratory.com).
 - **Generator:** Built using the [Taj Mahal static site generator](https://maniartech.com) by ManiarTech®.
